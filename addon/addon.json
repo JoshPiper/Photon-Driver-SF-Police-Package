@@ -1,0 +1,15 @@
+{
+    "description": "Lonewolfie's Driver SF Props, turned into Photon components.\n\nThanks to ForceGhost for the icon.\n\nIDs:\n\"Internet Driver SF Pushbar\" -> Red/Blue Bullbar.\n\"Internet Driver SF Lightbar Red/Blue\" -> Red/Blue Lightbar.\n\"Internet Driver SF Lightbar Blue\" -> Blue Lightbar.\n\"Internet Driver SF Lightbar Amber/White\" -> Amber/White Lightbar.\n\nNo, these aren't vehicles, they're components. You turn them into vehicles. No, they won't work without Photon.",
+    "ignore": [
+        "*.psd",
+        "*.vcproj",
+        "*.svn*"
+    ],
+    "tags": [
+        "roleplay",
+        "realism"
+    ],
+    "title": "[Photon] Driver SF Police Package",
+    "type": "vehicle",
+    "workshopid": 1428348586.0
+}
